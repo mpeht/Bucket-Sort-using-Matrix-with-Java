@@ -79,7 +79,7 @@ public class BucketSort {
                 }
             }
         }
-        toPrint(vector);
+        toPrint(vector01);
     }
 
     public static int getMaxNumber(int[] vector) {
